@@ -4,7 +4,7 @@
 //       <h1>user{match.params.name} page</h1>
 //     </>
 //   );
-// }
+// }}
 
 import React from "react";
 import { useNavigate, useLocation, useParams } from "react-router-dom";
